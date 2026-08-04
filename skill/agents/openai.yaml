@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书招聘候选人标签备注"
+  short_description: "从飞书 Base、表格或文档批量为招聘候选人写入标签备注"
+  default_prompt: "Use $lark-hire-note-tagger to read candidate names and tags from this Feishu link and safely add deduplicated Hire notes."
